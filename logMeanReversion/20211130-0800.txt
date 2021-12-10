@@ -1,0 +1,10 @@
+FCUV: DMA over 200 bars = 9.7653125 | Last Close = 11.45 | Day before yesterday close = 10.79 | RSI over 2 bars = 93.238700115794888345649068426504
+AIP: DMA over 200 bars = 22.800833333333333333333333333333 | Last Close = 27.35 | Day before yesterday close = 26.09 | RSI over 2 bars = 91.823984892702100192402374052079
+CNTX: DMA over 200 bars = 5.660 | Last Close = 6.66 | Day before yesterday close = 5.58 | RSI over 2 bars = 98.093184286441040068530657139877
+SKM: DMA over 200 bars = 29.2919005 | Last Close = 45.8401 | Day before yesterday close = 29.83 | RSI over 2 bars = 98.317502045559220058138829305268
+PPSI: DMA over 200 bars = 4.4980925 | Last Close = 9.75 | Day before yesterday close = 7.63 | RSI over 2 bars = 97.066093066267913563411609811093
+VERA: DMA over 200 bars = 18.170107194244604316546762589928 | Last Close = 34.955 | Day before yesterday close = 31.47 | RSI over 2 bars = 96.065488496217975955605923484945
+LGVN: DMA over 200 bars = 6.290752 | Last Close = 29.0003 | Day before yesterday close = 26.25 | RSI over 2 bars = 52.951372437143430403605429408001
+VIR: DMA over 200 bars = 44.464044 | Last Close = 47.5729 | Day before yesterday close = 40.48 | RSI over 2 bars = 99.136438206708695250360228463692
+GRTS: DMA over 200 bars = 10.0709 | Last Close = 13.18 | Day before yesterday close = 10.5 | RSI over 2 bars = 88.989177758368829855632435498679
+CPIX: DMA over 200 bars = 2.951356 | Last Close = 4.77 | Day before yesterday close = 2.2 | RSI over 2 bars = 98.438291886714846669441552686508

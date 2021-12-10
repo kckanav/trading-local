@@ -1,0 +1,10 @@
+APRN: DMA over 200 bars = 6.14775 | Last Close = 11.72 | Day before yesterday close = 10.56 | RSI over 2 bars = 82.223135413003567437442658939996 | Growth Rate over 5 bars = null
+SRTS: DMA over 200 bars = 3.981936 | Last Close = 7.4 | Day before yesterday close = 6.89 | RSI over 2 bars = 94.696154605570353709801180074563 | Growth Rate over 5 bars = null
+BRDS: DMA over 200 bars = 7.0235 | Last Close = 8.16 | Day before yesterday close = 6.68 | RSI over 2 bars = 96.636237749360074398560010861873 | Growth Rate over 5 bars = null
+IMGN: DMA over 200 bars = 6.59945 | Last Close = 7.16 | Day before yesterday close = 6.77 | RSI over 2 bars = 98.207291549170170837261950026680 | Growth Rate over 5 bars = null
+OPNT: DMA over 200 bars = 16.9374335 | Last Close = 29.6 | Day before yesterday close = 26.75 | RSI over 2 bars = 96.306999671595036449393610206562 | Growth Rate over 5 bars = null
+STRN: DMA over 200 bars = 4.2117647058823529411764705882353 | Last Close = 4.63 | Day before yesterday close = 3.9 | RSI over 2 bars = 97.320019459484347898260581397533 | Growth Rate over 5 bars = null
+JWEL: DMA over 200 bars = 6.7388736263736263736263736263736 | Last Close = 13.36 | Day before yesterday close = 10.64 | RSI over 2 bars = 92.958839704832204820829739510349 | Growth Rate over 5 bars = null
+PPSI: DMA over 200 bars = 4.4887925 | Last Close = 8.44 | Day before yesterday close = 7.07 | RSI over 2 bars = 58.900201505811033353355353119709 | Growth Rate over 5 bars = null
+CETXP: DMA over 200 bars = 2.305234 | Last Close = 2.8499 | Day before yesterday close = 2.67 | RSI over 2 bars = 91.722927128631192154819170892541 | Growth Rate over 5 bars = null
+REX: DMA over 200 bars = 87.0951 | Last Close = 107.93 | Day before yesterday close = 98.9 | RSI over 2 bars = 97.867907290892626945478317631826 | Growth Rate over 5 bars = null

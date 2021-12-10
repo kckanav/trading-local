@@ -1,0 +1,10 @@
+ASLE: DMA over 200 bars = 13.713375 | Last Close = 18.52 | Day before yesterday close = 17.42 | RSI over 2 bars = 87.749445239743028696437937323892
+AVXL: DMA over 200 bars = 17.17715 | Last Close = 20.44 | Day before yesterday close = 19.45 | RSI over 2 bars = 85.455949109912090791223929460636
+DIT: DMA over 200 bars = 142.247215 | Last Close = 180.51 | Day before yesterday close = 173.25 | RSI over 2 bars = 81.081967141785573647024062996225
+TYRA: DMA over 200 bars = 21.334339622641509433962264150943 | Last Close = 24.98 | Day before yesterday close = 23.87 | RSI over 2 bars = 84.759924881362461725031698839931
+TRT: DMA over 200 bars = 5.0287345 | Last Close = 10.07 | Day before yesterday close = 9.71 | RSI over 2 bars = 61.454825761399020787302618383722
+TIL: DMA over 200 bars = 17.47865 | Last Close = 21.8 | Day before yesterday close = 20.37 | RSI over 2 bars = 84.200661731828464876071194147553
+RBLX: DMA over 200 bars = 82.411793478260869565217391304348 | Last Close = 129.36 | Day before yesterday close = 122.65 | RSI over 2 bars = 79.966203528005909095127866204831
+BITF: DMA over 200 bars = 5.4090088495575221238938053097345 | Last Close = 7.86 | Day before yesterday close = 7.14 | RSI over 2 bars = 63.666670648623372840123959782512
+TLK: DMA over 200 bars = 23.8166 | Last Close = 28.42 | Day before yesterday close = 27.56 | RSI over 2 bars = 97.382959877638651063995783263994
+BERY: DMA over 200 bars = 64.1497 | Last Close = 71.61 | Day before yesterday close = 66.47 | RSI over 2 bars = 95.077365181500695296784003370315

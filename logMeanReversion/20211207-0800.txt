@@ -1,0 +1,10 @@
+TESS: DMA over 200 bars = 6.5075665 | Last Close = 6.77 | Day before yesterday close = 5.17 | RSI over 2 bars = 94.176387247529024574123726038347 | Growth Rate over 5 bars = 0.26070763500931098696461824953445
+SIMO: DMA over 200 bars = 67.694278 | Last Close = 87.98 | Day before yesterday close = 75.96 | RSI over 2 bars = 99.425427328838585271241299086804 | Growth Rate over 5 bars = 0.26754070018729289727704941651059
+SOTK: DMA over 200 bars = 5.0396619718309859154929577464789 | Last Close = 7.96 | Day before yesterday close = 7.36 | RSI over 2 bars = 99.308490357971522113532455815217 | Growth Rate over 5 bars = 0.30491803278688524590163934426230
+STRN: DMA over 200 bars = 4.3535 | Last Close = 5.54 | Day before yesterday close = 5.21 | RSI over 2 bars = 99.533481871906625504460428377033 | Growth Rate over 5 bars = 0.42051282051282051282051282051282
+TIVC: DMA over 200 bars = 4.3836111111111111111111111111111 | Last Close = 4.68 | Day before yesterday close = 4.36 | RSI over 2 bars = 98.027379367010797030311007119949 | Growth Rate over 5 bars = 0.31830985915492957746478873239437
+MRVL: DMA over 200 bars = 57.0429 | Last Close = 91.51 | Day before yesterday close = 85.43 | RSI over 2 bars = 98.543429201005834412669104973529 | Growth Rate over 5 bars = 0.28978153629316420014094432699084
+CFVI: DMA over 200 bars = 9.7995686746987951807228915662651 | Last Close = 13.12 | Day before yesterday close = 12.7 | RSI over 2 bars = 99.918484290872933305159714611694 | Growth Rate over 5 bars = 0.34495130702203997949769349051768
+ACET: DMA over 200 bars = 10.5092135 | Last Close = 14.49 | Day before yesterday close = 13.57 | RSI over 2 bars = 94.404056596816989628284733961993 | Growth Rate over 5 bars = 0.42337917485265225933202357563851
+LPI: DMA over 200 bars = 57.41175 | Last Close = 69.1 | Day before yesterday close = 61.28 | RSI over 2 bars = 93.309565815907953013381917607406 | Growth Rate over 5 bars = 0.27255985267034990791896869244936
+TRUP: DMA over 200 bars = 96.16405 | Last Close = 155.41 | Day before yesterday close = 111.78 | RSI over 2 bars = 94.236517355017747811839149827955 | Growth Rate over 5 bars = 0.38585696450864990190832887462101
