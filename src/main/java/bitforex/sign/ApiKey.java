@@ -1,0 +1,13 @@
+package bitforex.sign;
+
+import lombok.*;
+
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
+@Getter
+@Setter
+public class ApiKey {
+    private String key;
+    private String secret;
+}
